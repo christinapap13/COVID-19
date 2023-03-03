@@ -1,6 +1,11 @@
-# Machine Learining with Python Covid-19
+# Machine Learining with Python: Covid-19
 
 This is a data-science project about COVID-19 analysis based on official data from 👉https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports . 
+
+## **Creators (names in Greek with student IDs)**
+* <a href="https://github.com/EiriniRouchota">ΕΙΡΗΝΗ ΡΟΥΧΩΤΑ, (Α.Μ. : 1059654)</a>
+* <a href="https://github.com/ITSHASFI">ΓΙΑΝΝΗΣ ΧΑΤΖΗΜΙΧΑΛΗΣ, (Α.Μ. : 1059613)</a>
+* <a href="https://github.com/christinapap13">ΧΡΙΣΤΙΝΑ ΠΑΠΑΣΤΑΥΡΟΥ, (Α.Μ. : 1059621)</a>
 
 ## **How to test it** 
 - This project was developed in Pycharm
